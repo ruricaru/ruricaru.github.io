@@ -3,7 +3,7 @@
 Name Name:
   name        : "Raluca Uricaru"
   #uri         : "http://name.com"
-  email       : "raluca.uricaru[@]u-bordeaux.fr"
+  email       : "(firstname).(lastname)@u-bordeaux.fr"
   bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
   #twitter     : "name"
