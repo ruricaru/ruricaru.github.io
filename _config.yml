@@ -27,7 +27,7 @@ author:
   bio              : "PhD Computer science, Associate Professor"
   location         : "Bordeaux, France"
   employer         : "University of Bordeaux"
-  uri              : "www.u-bordeaux.fr"
+  #uri              : ""
   email            : "(firstname).(lastname)@u-bordeaux.fr" 
 
   # Academic websites
