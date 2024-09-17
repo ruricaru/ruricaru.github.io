@@ -17,12 +17,9 @@ Education
 
 Work experience
 ======
-* Fall 2012: Associate Professor
-  * Bordeaux University
+* Fall 2012: Associate Professor at Bordeaux University
 
-* Fall 2012: Researcher
-  * LaBRI, Bordeaux
+* Fall 2012: Researcher at LaBRI, Bordeaux
 
-* Fall 2011: Postdoc researcher
-  * Inria, Rennes
+* Fall 2011: Postdoc researcher at Inria, Rennes
   
