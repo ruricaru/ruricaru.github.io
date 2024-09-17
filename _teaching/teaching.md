@@ -1,11 +1,13 @@
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# During the past years I have taught several Master classes including:
 
-Heading 1
-======
+* Introduction to Algorithmics
+* Omics and Bioinformatics
+* Methods for Next Generation Sequencing data
 
-Heading 2
-======
+# As well as the following undergraduate courses:
 
-Heading 3
-======
+* C programming
+* Python programming
+* Object oriented programming
+* Algorithmics on elementary data structures
