@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Montpellier University, 2010
+  
 * M.S. in Computer Science, ENS Lyon, 2006
+  
 * B.S. in Computer Science, A.I.Cuza University, Iasi, Roumanie, 2005
 
 Work experience
