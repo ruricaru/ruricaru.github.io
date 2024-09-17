@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Associate Professor at [Bordeaux University](http://www.u-bordeaux.fr/) and a researcher in the [BKB team](https://www.labri.fr/en/bench-knowledge-and-beyond) at the [LaBRI](http://www.labri.fr). 
 
-My primary research field is bioinformatics, with a particular focus on modeling and analyzing large-scale biological data, specifically omics data, which is characterized by its massive scale and heterogeneity.
+My primary research field is *bioinformatics*, with a particular focus on modeling and analyzing large-scale biological data, specifically omics data, which is characterized by its massive scale and heterogeneity.
 
 My research is centered around:
 
