@@ -17,9 +17,13 @@ Education
 
 Work experience
 ======
-* Fall 2012: Associate Professor at Bordeaux University
+* from 2012: Associate Professor at Bordeaux University
 
-* Fall 2012: Researcher at LaBRI, Bordeaux
+* from 2012 : Researcher at LaBRI, Bordeaux (BKB team)
 
-* Fall 2011: Postdoc researcher at Inria, Rennes
+* 2011 - 2012: Postdoc researcher at Inria, Rennes (Symbiose team)
+
+* 2010 - 2011: ATER at Montpellier University
+
+* 2006 - 2010: PhD at LIRMM, Montpellier (MAB team)
   
