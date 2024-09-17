@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate courses"
 permalink: /teaching/teaching
 venue: "Bordeaux University"
-date: 
+date: 2012-01-01
 location: "Bordeaux, France"
 ---
 
