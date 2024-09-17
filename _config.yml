@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : "PhD Computer science, Associate Professor"
   location         : "Bordeaux, France"
-  employer         : "University of Bordeaux"
+  employer         : "LaBRI, University of Bordeaux"
   #uri              : ""
   email            : "firstname.lastname@u-bordeaux.fr" 
 
@@ -261,10 +261,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # CV
   - scope:
       path: ""
-      type: portfolio
+      type: CV
     values:
       layout: single
       author_profile: true
