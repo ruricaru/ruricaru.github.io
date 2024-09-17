@@ -18,4 +18,4 @@ The approaches I develop cover several axes including:
 
 Since 2022, I co-lead the [Systems and Data research department](https://www.labri.fr/en/systems-and-data-department) composed of the [BKB](https://www.labri.fr/en/bench-knowledge-and-beyond) and the [Progress](https://www.labri.fr/en/programming-networks-and-systems) teams at the [LaBRI](http://www.labri.fr).
 
-I am also part of the head board of the [Bioinformatics Masters](http://master-bioinfo-bordeaux.github.io/) of the [Bordeaux University](http://www.u-bordeaux.fr/) as head of the 1st year.
+I am also part of the head board of the [Bioinformatics Masters](http://master-bioinfo-bordeaux.github.io/) of the [Bordeaux University](http://www.u-bordeaux.fr/), as head of the 1st year.
