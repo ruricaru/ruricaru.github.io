@@ -21,12 +21,12 @@ repository               : "ruricaru/ruricaru.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "raluca.jpg"
   name             : "Raluca Uricaru"
   pronouns         : "she/her"  
   bio              : "PhD Computer science, Associate Professor"
   location         : "Bordeaux, France"
-  employer         : [University of Bordeaux](www.u-bordeaux.fr)
+  employer         : "University of Bordeaux"
   #uri              : ""
   email            : "firstname.lastname@u-bordeaux.fr" 
 
@@ -43,7 +43,7 @@ author:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
   #dribbble         : # Username
-  github           : "ruricaru"
+  #github           : "ruricaru"
   #kaggle           : # Username  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
