@@ -5,17 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-Courses taught in the Masters of Bioinformatics
-======
+Courses I taught in the Masters of Bioinformatics:
 
 * Introduction to Algorithmics
 * Omics and Bioinformatics
 * Methods and Algorithms for Next Generation Sequencing data
 
-Courses taught in the Computer Science Undergraduate Program
-======
+Some of the courses I gave in the Computer Science Undergraduate Program:
 
 * C programming
 * Python programming
