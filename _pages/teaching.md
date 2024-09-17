@@ -5,13 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Courses I taught in the Masters of Bioinformatics:
+Courses I teach in the Masters of Bioinformatics of Bordeaux:
 
 * Introduction to Algorithmics
 * Omics and Bioinformatics
 * Methods and Algorithms for Next Generation Sequencing data
 
-Some of the courses I gave in the Computer Science Undergraduate Program:
+Some of the courses I give (or gave) in the Computer Science Undergraduate Program of Bordeaux University:
 
 * C programming
 * Python programming
