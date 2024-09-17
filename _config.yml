@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Raluca Uricaru"
 title_separator          : "-"
 name                     : &name "Raluca Uricaru"
-description              : &description "Raluca Uricaru's website"
+description              : &description "Associate Professor @ University of Bordeaux"
 url                      : https://ruricaru.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruricaru/ruricaru.github.io"
@@ -22,12 +22,12 @@ repository               : "ruricaru/ruricaru.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Raluca Uricaru, PhD Computer science"
+  name             : "Raluca Uricaru"
   pronouns         : "she/her"  
-  bio              : "Associate Professor"
+  bio              : "PhD Computer science, Associate Professor"
   location         : "Bordeaux, France"
   employer         : "University of Bordeaux"
-  uri              : # URL
+  uri              : "www.u-bordeaux.fr"
   email            : "(firstname).(lastname)@u-bordeaux.fr" 
 
   # Academic websites
