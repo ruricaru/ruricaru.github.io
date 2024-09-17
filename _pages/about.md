@@ -14,7 +14,7 @@ My primary research field is bioinformatics, with a particular focus on modeling
 My research is centered around:
 
 * the algorithmic aspects of analyzing genomic sequencing data.
-* the modeling, analysis, and extraction of biological information from omics data, utilizing machine learning and data mining approaches.
+* the modeling, analysis, and extraction of biological information from omics data, using machine learning and data mining approaches.
 
 Since 2022, I co-lead the [Systems and Data research department](https://www.labri.fr/en/systems-and-data-department) composed of the [BKB](https://www.labri.fr/en/bench-knowledge-and-beyond) and the [Progress](https://www.labri.fr/en/programming-networks-and-systems) teams at the [LaBRI](http://www.labri.fr).
 
