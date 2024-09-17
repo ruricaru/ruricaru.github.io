@@ -21,7 +21,7 @@ repository               : "ruricaru/ruricaru.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "raluca.jpg"
   name             : "Raluca Uricaru"
   pronouns         : "she/her"  
   bio              : "PhD Computer science, Associate Professor"
