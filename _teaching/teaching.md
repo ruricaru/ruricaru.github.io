@@ -10,4 +10,4 @@ location: "Bordeaux, France"
 
 * Introduction to Algorithmics
 * Omics and Bioinformatics
-* Methods for Next Generation Sequencing data
+* Methods and Algorithms for Next Generation Sequencing data
