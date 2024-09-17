@@ -225,10 +225,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _news
   - scope:
       path: ""
-      type: posts
+      type: news
     values:
       layout: single
       author_profile: true
@@ -261,7 +261,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # CV
+  # _CV
   - scope:
       path: ""
       type: CV
@@ -270,14 +270,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
