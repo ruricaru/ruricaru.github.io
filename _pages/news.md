@@ -5,8 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
-**Watch out!** [JOBIM 2025](https://jobim2025.labri.fr/) Call for Papers is now open!
+:point_up: **Watch out!** [JOBIM 2025](https://jobim2025.labri.fr/) Call for Papers is now open!
 
-I am pleased to announce that my HDR defense will take place on February 11 at LaBRI, University of Bordeaux.
+
+:memo: I am pleased to announce that my HDR defense will take place on February 11 at LaBRI, University of Bordeaux.
 
 
