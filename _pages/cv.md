@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* HDR (_Habilitation à Diriger des Recherches_), Bordeaux University, 2025
+  
 * Ph.D in Computer Science, Montpellier University, 2010
   
 * M.S. in Computer Science, ENS Lyon, 2006
